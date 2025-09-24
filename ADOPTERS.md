@@ -61,5 +61,11 @@ If you'd like to be included here, please update [this issue](https://github.com
 - Website: https://www.eng.it/it
 - Use Case: We use ProjectSveltos with Crossplane to provide on demand Kubernetes clusters to our developers and distribute addons at scale to the managed clusters. It eneabled us to flexibly leverage templates, events and addons deployment ordering with a pretty linear learning curve.
 - Project name: Platform Team
-- Project website: 
+- Project website:
 
+### Renault
+
+- Website: https://www.renault.com
+- Use Case: Renault leverages Projectsveltos as a cornerstone of its Digital Cloud Platform. We use it to manage multi-cluster addon lifecycles, event-driven automation, and fine-grained workload distribution across our fleets.
+- Project name: gas
+- Project website:
