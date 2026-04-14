@@ -69,3 +69,6 @@ If you'd like to be included here, please update [this issue](https://github.com
 - Use Case: Renault leverages Projectsveltos as a cornerstone of its Digital Cloud Platform. We use it to manage multi-cluster addon lifecycles, event-driven automation, and fine-grained workload distribution across our fleets.
 - Project name: gas
 - Project website:
+
+### Comcast
+![Comcast logo](https://corporate.comcast.com/media/img/original/2024/03/corporate_NewComcastLogo_16x9.png?)
