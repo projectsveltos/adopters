@@ -1,0 +1,69 @@
+name: "Add my company as a Sveltos adopter"
+description: "Tell us you're using Sveltos — get listed on our website and a shoutout on social media."
+title: "Adopter: [Company Name]"
+labels: ["adopter"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for using Sveltos! Filling in this form gets you:
+        - ✅ Listed on the [Sveltos adopters page](https://website.projectsveltos.io/companies)
+        - ✅ Added to [ADOPTERS.md](https://github.com/projectsveltos/adopters/blob/main/ADOPTERS.md)
+        - 📣 A shoutout on [X](https://x.com/projectsveltos) and [LinkedIn](https://www.linkedin.com/company/projectsveltos/) (if you opt in)
+
+        We'll take it from here — no PR needed.
+
+  - type: input
+    id: company
+    attributes:
+      label: Company / Project name
+      placeholder: "Acme Corp"
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: Website
+      placeholder: "https://example.com"
+    validations:
+      required: true
+
+  - type: input
+    id: logo
+    attributes:
+      label: Logo URL
+      description: "A publicly accessible URL to your logo (SVG or PNG preferred). We use it on the adopters page."
+      placeholder: "https://example.com/logo.svg"
+
+  - type: input
+    id: project
+    attributes:
+      label: Project name (optional)
+      description: "If you're using Sveltos as part of a named product or project."
+      placeholder: "My Platform"
+
+  - type: input
+    id: project_url
+    attributes:
+      label: Project URL (optional)
+      placeholder: "https://example.com/my-platform"
+
+  - type: textarea
+    id: use_case
+    attributes:
+      label: How are you using Sveltos?
+      description: "One or two sentences is enough. We'll use this in ADOPTERS.md."
+      placeholder: "We use Sveltos to manage add-ons across 50+ clusters..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: public
+    attributes:
+      label: Can we mention you publicly on social media?
+      options:
+        - "Yes — shout us out!"
+        - "List only — no social posts please"
+    validations:
+      required: true

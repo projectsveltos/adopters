@@ -1,9 +1,20 @@
 # Adopters
 
-If you're using _Projectsveltos_ in your organization, please try to add your company name to this list.
-It really helps the project to gain momentum and credibility.
+Using Sveltos in production? We'd love to hear about it.
 
-If you'd like to be included here, please update [this issue](https://github.com/projectsveltos/adopters/issues/1) or open a Pull-Request and your information will included.
+**[Open an issue](https://github.com/projectsveltos/adopters/issues/new?template=adopter.yml)** — no PR needed, we'll take it from there.
+
+**What you get:**
+- Listed on the [Sveltos adopters page](https://website.projectsveltos.io/companies)
+- A shoutout on [X](https://x.com/projectsveltos) and [LinkedIn](https://www.linkedin.com/company/projectsveltos/) (opt-in)
+
+Want to show you're a Sveltos user in your own README? Add this badge:
+
+```markdown
+[![Powered by Sveltos](https://img.shields.io/badge/Powered%20by-Sveltos-blue)](https://github.com/projectsveltos)
+```
+
+[![Powered by Sveltos](https://img.shields.io/badge/Powered%20by-Sveltos-blue)](https://github.com/projectsveltos)
 
 ## Adopters list
 
