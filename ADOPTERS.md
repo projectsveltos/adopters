@@ -82,4 +82,4 @@ Want to show you're a Sveltos user in your own README? Add this badge:
 - Project website:
 
 ### Comcast
-![Comcast logo](https://corporate.comcast.com/media/img/original/2024/03/corporate_NewComcastLogo_16x9.png?)
+![Comcast logo](https://website.projectsveltos.io/images/companies/comcast.png)
