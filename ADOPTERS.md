@@ -83,3 +83,10 @@ Want to show you're a Sveltos user in your own README? Add this badge:
 
 ### Comcast
 ![Comcast logo](https://website.projectsveltos.io/images/companies/comcast.png)
+
+### Mistral AI
+
+- Website: https://mistral.ai
+- Use Case: Sveltos is used by Mistral AI to manage addons in its Mistral Kubernetes Service offering.
+- Project name: Mistral Compute
+- Project website: https://mistral.ai/products/compute
