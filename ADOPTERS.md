@@ -90,3 +90,8 @@ Want to show you're a Sveltos user in your own README? Add this badge:
 - Use Case: Sveltos is used by Mistral AI to manage addons in its Mistral Kubernetes Service offering.
 - Project name: Mistral Compute
 - Project website: https://mistral.ai/products/compute
+
+### iits-consulting
+
+- Website: https://iits-consulting.de/en/
+- Use Case: iits-consulting uses Sveltos for scalable testing of managed Kubernetes platforms, deploying and managing 1000+ applications efficiently using agent-based mode — including edge environments where resources are limited. They also use Sveltos Addon Controller to predict platform scaling limits, identifying when a hub configuration will reach capacity before customers are affected, supporting environments that grow from 100 to 1000+ clusters.
