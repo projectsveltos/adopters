@@ -18,19 +18,43 @@ Want to show you're a Sveltos user in your own README? Add this badge:
 
 ## Adopters list
 
+### Comcast
+![Comcast logo](https://website.projectsveltos.io/images/companies/comcast.png)
+
+### Renault
+
+- Website: https://www.renault.com
+- Use Case: Renault leverages Projectsveltos as a cornerstone of its Digital Cloud Platform. We use it to manage multi-cluster addon lifecycles, event-driven automation, and fine-grained workload distribution across our fleets.
+- Project name: gas
+- Project website:
+
+### Direction Générale des Finances Publiques (DGFiP)
+
+- Website: https://www.economie.gouv.fr/dgfip
+- Use Case: Sveltos is used to deploy all day2 internal services for the Kubo French state distribution of Kubernetes Vanilla, and for all deployments issued from our operator and charts catalog for our customers.
+- Project name: Kubo
+- Project website:
+
+### Mistral AI
+
+- Website: https://mistral.ai
+- Use Case: Sveltos is used by Mistral AI to manage addons in its Mistral Kubernetes Service offering.
+- Project name: Mistral Compute
+- Project website: https://mistral.ai/products/compute
+
+### Engineering
+
+- Website: https://www.eng.it/it
+- Use Case: We use ProjectSveltos with Crossplane to provide on demand Kubernetes clusters to our developers and distribute addons at scale to the managed clusters. It eneabled us to flexibly leverage templates, events and addons deployment ordering with a pretty linear learning curve.
+- Project name: Platform Team
+- Project website:
+
 ### Mirantis, Inc.
 
 - Website: https://mirantis.com
 - Use Case: Project Sveltos is the key component in Mirantis open source project k0rdent. It is used as the core of the k0rdent State Manager
 - Project name: k0rdent
 - Project website: https://k0rdent.io
-
-### CLASTIX Labs
-
-- Website: https://clastix.io
-- Use Case: Foundation of the multi-cluster application and addons delivery for our Enterprise platform offering.
-- Project name: CLASTIX Enterprise Platform
-- Project website: https://clastix.cloud/
 
 ### Platform9 Systems
 
@@ -39,12 +63,24 @@ Want to show you're a Sveltos user in your own README? Add this badge:
 - Project name: Private Cloud Director
 - Project website: https://platform9.com/private-cloud-director/
 
-### Craftsman Software, Inc.
+### SparkFabrik
 
-- Website: <https://craftsman-software.com/>
-- Use Case: AppThrust is a **Kubernetes-based application development platform** designed to provide developers with a streamlined experience similar to Vercel or Heroku, but with the **extensibility and flexibility** required for enterprise use, enabling them to focus on application development without managing infrastructure while offering BYOI (bring your own IaaS) support to deploy on AWS, GKE, Azure, on-premises, or multi-cloud environments, being composed largely of OSS, and utilizing Sveltos—with its exceptional event framework and add-on capabilities—for multi-cluster management.
-- Project name: AppThrust
-- Project website: <https://github.com/appthrust/>
+- Website: https://www.sparkfabrik.com/
+- Use Case: SparkFabrik leverages Projectsveltos to automate infrastructure deployments across AWS (EKS), Google Kubernetes Engine (GKE), Azure (AKS) and on-premises environments, centrally managing the installation and upgrading of Kubernetes add-ons and applications.
+- Project name: Platform Team
+- Project website: https://www.sparkfabrik.com/
+
+### CLASTIX Labs
+
+- Website: https://clastix.io
+- Use Case: Foundation of the multi-cluster application and addons delivery for our Enterprise platform offering.
+- Project name: CLASTIX Enterprise Platform
+- Project website: https://clastix.cloud/
+
+### IITS CONSULTING
+
+- Website: https://iits-consulting.de/en/
+- Use Case: iits-consulting uses Sveltos for scalable testing of managed Kubernetes platforms, deploying and managing 1000+ applications efficiently using agent-based mode — including edge environments where resources are limited. They also use Sveltos Addon Controller to predict platform scaling limits, identifying when a hub configuration will reach capacity before customers are affected, supporting environments that grow from 100 to 1000+ clusters.
 
 ### Tinext Cloud
 
@@ -60,38 +96,9 @@ Want to show you're a Sveltos user in your own README? Add this badge:
 - Project name: Dinova Cloud Kubernetes Service
 - Project website: https://www.dinova.one
 
-### SparkFabrik
+### Craftsman Software, Inc.
 
-- Website: https://www.sparkfabrik.com/
-- Use Case: SparkFabrik leverages Projectsveltos to automate infrastructure deployments across AWS (EKS), Google Kubernetes Engine (GKE), Azure (AKS) and on-premises environments, centrally managing the installation and upgrading of Kubernetes add-ons and applications.
-- Project name: Platform Team
-- Project website: https://www.sparkfabrik.com/
-
-### Engineering
-
-- Website: https://www.eng.it/it
-- Use Case: We use ProjectSveltos with Crossplane to provide on demand Kubernetes clusters to our developers and distribute addons at scale to the managed clusters. It eneabled us to flexibly leverage templates, events and addons deployment ordering with a pretty linear learning curve.
-- Project name: Platform Team
-- Project website:
-
-### Renault
-
-- Website: https://www.renault.com
-- Use Case: Renault leverages Projectsveltos as a cornerstone of its Digital Cloud Platform. We use it to manage multi-cluster addon lifecycles, event-driven automation, and fine-grained workload distribution across our fleets.
-- Project name: gas
-- Project website:
-
-### Comcast
-![Comcast logo](https://website.projectsveltos.io/images/companies/comcast.png)
-
-### Mistral AI
-
-- Website: https://mistral.ai
-- Use Case: Sveltos is used by Mistral AI to manage addons in its Mistral Kubernetes Service offering.
-- Project name: Mistral Compute
-- Project website: https://mistral.ai/products/compute
-
-### IITS CONSULTING
-
-- Website: https://iits-consulting.de/en/
-- Use Case: iits-consulting uses Sveltos for scalable testing of managed Kubernetes platforms, deploying and managing 1000+ applications efficiently using agent-based mode — including edge environments where resources are limited. They also use Sveltos Addon Controller to predict platform scaling limits, identifying when a hub configuration will reach capacity before customers are affected, supporting environments that grow from 100 to 1000+ clusters.
+- Website: <https://craftsman-software.com/>
+- Use Case: AppThrust is a **Kubernetes-based application development platform** designed to provide developers with a streamlined experience similar to Vercel or Heroku, but with the **extensibility and flexibility** required for enterprise use, enabling them to focus on application development without managing infrastructure while offering BYOI (bring your own IaaS) support to deploy on AWS, GKE, Azure, on-premises, or multi-cloud environments, being composed largely of OSS, and utilizing Sveltos—with its exceptional event framework and add-on capabilities—for multi-cluster management.
+- Project name: AppThrust
+- Project website: <https://github.com/appthrust/>
