@@ -42,6 +42,11 @@ Want to show you're a Sveltos user in your own README? Add this badge:
 - Project name: Mistral Compute
 - Project website: https://mistral.ai/products/compute
 
+### RTL
+
+- Website: https://www.rtl.nl/
+- Use Case: RTL uses Sveltos to deliver the in-cluster platform baseline, including Argo CD, external-secrets, Karpenter, and Gateway API, across a fleet of CAPI-provisioned AKS and EKS clusters from a central management cluster, leveraging template resource references for per-cluster customization. Crossplane manages cloud-side resources alongside Sveltos, with the event framework used to address cloud-specific challenges, such as pod recycling timing issues.
+
 ### Engineering
 
 - Website: https://www.eng.it/it
